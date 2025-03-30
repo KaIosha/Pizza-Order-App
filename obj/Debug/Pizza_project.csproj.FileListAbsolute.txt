@@ -1,0 +1,10 @@
+E:\abohdhod\course14C#\Pizza project\Pizza_project\bin\Debug\Pizza_project.exe.config
+E:\abohdhod\course14C#\Pizza project\Pizza_project\bin\Debug\Pizza_project.exe
+E:\abohdhod\course14C#\Pizza project\Pizza_project\bin\Debug\Pizza_project.pdb
+E:\abohdhod\course14C#\Pizza project\Pizza_project\obj\Debug\Pizza_project.csproj.AssemblyReference.cache
+E:\abohdhod\course14C#\Pizza project\Pizza_project\obj\Debug\Pizza_project.Form1.resources
+E:\abohdhod\course14C#\Pizza project\Pizza_project\obj\Debug\Pizza_project.Properties.Resources.resources
+E:\abohdhod\course14C#\Pizza project\Pizza_project\obj\Debug\Pizza_project.csproj.GenerateResource.cache
+E:\abohdhod\course14C#\Pizza project\Pizza_project\obj\Debug\Pizza_project.csproj.CoreCompileInputs.cache
+E:\abohdhod\course14C#\Pizza project\Pizza_project\obj\Debug\Pizza_project.exe
+E:\abohdhod\course14C#\Pizza project\Pizza_project\obj\Debug\Pizza_project.pdb
